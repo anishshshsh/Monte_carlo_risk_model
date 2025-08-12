@@ -74,6 +74,14 @@ Operational Risk,2000000,0.1,0.4
 * **`outputs/risks_scored.csv`** — Processed file with calculated scores.
 * **`outputs/risk_heatmap.png`** — Heatmap of risk categories.
 * **`outputs/top_risks.png`** — Bar chart of the top risks.
+  
+<img width="800" height="600" alt="risk_heatmap" src="https://github.com/user-attachments/assets/1122e325-41c2-4c93-a03f-faa9a60bb851" />
+
+<img width="1600" height="800" alt="loss_distribution" src="https://github.com/user-attachments/assets/e4e2fe1c-8142-4feb-9586-a7445151ca05" />
+
+<img width="700" height="450" alt="top_risks" src="https://github.com/user-attachments/assets/786b77bf-912d-4e73-8c4d-f8a0cf30cea8" />
+
+
 
 ## **Core Features**
 
