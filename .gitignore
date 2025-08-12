@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+data/*
+!data/risks.csv   # Keep example/sample file if needed
+
+# Outputs
+outputs/*
+!outputs/.gitkeep  # Keep empty folder in repo
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
